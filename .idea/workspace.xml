@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3172e763-6fef-4909-8e35-5138a7b8075d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/TPTestLogiciel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TPTestLogiciel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TPTestLogiciel/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TPTestLogiciel/junit/monprojet/PorteMonnaie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TPTestLogiciel/junit/monprojet/SommeArgent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TPTestLogiciel/junit/monprojet/UniteDistincteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/TPTestLogiciel/PorteMonnaieTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/TPTestLogiciel/SommeArgentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/junit/monprojet/PorteMonnaie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junit/monprojet/PolynomeSecondDegre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/junit/monprojet/SommeArgent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/junit/monprojet/UniteDistincteException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/junit/monprojet/test/PorteMonnaieTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junit/monprojet/test/PorteMonnaieTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/junit/monprojet/test/SommeArgentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junit/monprojet/test/TestEquationSecondDegre.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NTGOj4MbvK24clRbSiWBaCD3MV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/samer/IdeaProjects/TP2TestLogiciel",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="All in TPTestLogiciel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TPTestLogiciel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in TPTestLogiciel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3172e763-6fef-4909-8e35-5138a7b8075d" name="Changes" comment="" />
+      <created>1679680629331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679680629331</updated>
+      <workItem from="1679680631491" duration="1477000" />
+      <workItem from="1679685096091" duration="4353000" />
+      <workItem from="1679698997616" duration="10245000" />
+      <workItem from="1682890294930" duration="1561000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/junit/monprojet/test/PorteMonnaieTest.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
