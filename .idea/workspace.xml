@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3172e763-6fef-4909-8e35-5138a7b8075d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/TPTestLogiciel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TPTestLogiciel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TPTestLogiciel/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TPTestLogiciel/junit/monprojet/PorteMonnaie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TPTestLogiciel/junit/monprojet/SommeArgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TPTestLogiciel/junit/monprojet/UniteDistincteException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/TPTestLogiciel/PorteMonnaieTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/TPTestLogiciel/SommeArgentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/junit/monprojet/PorteMonnaie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junit/monprojet/PolynomeSecondDegre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/junit/monprojet/SommeArgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/junit/monprojet/UniteDistincteException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/junit/monprojet/test/PorteMonnaieTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junit/monprojet/test/PorteMonnaieTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/junit/monprojet/test/SommeArgentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junit/monprojet/test/TestEquationSecondDegre.java" afterDir="false" />
-    </list>
+    <list default="true" id="3172e763-6fef-4909-8e35-5138a7b8075d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +42,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -88,7 +75,7 @@
       <workItem from="1679680631491" duration="1477000" />
       <workItem from="1679685096091" duration="4353000" />
       <workItem from="1679698997616" duration="10245000" />
-      <workItem from="1682890294930" duration="1561000" />
+      <workItem from="1682890294930" duration="3780000" />
     </task>
     <servers />
   </component>
@@ -105,16 +92,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/junit/monprojet/test/PorteMonnaieTest.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
